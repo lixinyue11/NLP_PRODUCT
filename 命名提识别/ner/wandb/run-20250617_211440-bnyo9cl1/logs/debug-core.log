@@ -1,0 +1,10 @@
+{"time":"2025-06-17T21:14:38.5388823+08:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmphsotcpr4\\port-19532.txt","pid":19532,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-06-17T21:14:38.5410239+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":19532}
+{"time":"2025-06-17T21:14:38.5410239+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":61137,"Zone":""}}
+{"time":"2025-06-17T21:14:38.7408801+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:61138"}
+{"time":"2025-06-17T21:14:40.6784877+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"bnyo9cl1","id":"127.0.0.1:61138"}
+{"time":"2025-06-17T21:14:42.519393+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"bnyo9cl1","id":"127.0.0.1:61138"}
+{"time":"2025-06-17T21:15:01.1763989+08:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:61138"}
+{"time":"2025-06-17T21:15:01.1763989+08:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:61138"}
+{"time":"2025-06-17T21:15:01.1763989+08:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-17T21:15:01.1763989+08:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:61138"}

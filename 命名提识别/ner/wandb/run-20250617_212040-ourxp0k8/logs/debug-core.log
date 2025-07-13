@@ -1,0 +1,13 @@
+{"time":"2025-06-17T21:20:37.4475728+08:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpoi1_utk6\\port-19728.txt","pid":19728,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-06-17T21:20:37.4486289+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":19728}
+{"time":"2025-06-17T21:20:37.4486289+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":61448,"Zone":""}}
+{"time":"2025-06-17T21:20:37.6468624+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:20:40.6972848+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"ourxp0k8","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:20:41.5579185+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"ourxp0k8","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:21:08.2759787+08:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:21:08.2759787+08:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:21:08.2759787+08:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-17T21:21:08.2759787+08:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:21:11.9294315+08:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:21:11.9294315+08:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:61449"}
+{"time":"2025-06-17T21:21:11.9294315+08:00","level":"INFO","msg":"server is closed"}

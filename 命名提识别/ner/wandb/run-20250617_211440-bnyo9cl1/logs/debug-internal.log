@@ -1,0 +1,10 @@
+{"time":"2025-06-17T21:14:40.6790547+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\项目\\咕泡项目\\自然语言处理NLP\\命名提识别\\ner\\wandb\\run-20250617_211440-bnyo9cl1\\logs\\debug-core.log"}
+{"time":"2025-06-17T21:14:42.519393+08:00","level":"INFO","msg":"created new stream","id":"bnyo9cl1"}
+{"time":"2025-06-17T21:14:42.519393+08:00","level":"INFO","msg":"stream: started","id":"bnyo9cl1"}
+{"time":"2025-06-17T21:14:42.519393+08:00","level":"INFO","msg":"handler: started","stream_id":"bnyo9cl1"}
+{"time":"2025-06-17T21:14:42.519393+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"bnyo9cl1"}
+{"time":"2025-06-17T21:14:42.519393+08:00","level":"INFO","msg":"sender: started","stream_id":"bnyo9cl1"}
+{"time":"2025-06-17T21:14:43.4523698+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-17T21:15:01.1763989+08:00","level":"INFO","msg":"stream: closing","id":"bnyo9cl1"}
+{"time":"2025-06-17T21:15:01.1763989+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-17T21:15:01.1763989+08:00","level":"INFO","msg":"Stopped system monitor"}
